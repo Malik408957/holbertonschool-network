@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # Listening ports script
 netstat -lptun
+netstat -lnxp
